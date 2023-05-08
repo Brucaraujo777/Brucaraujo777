@@ -16,9 +16,8 @@ e iniciando no aprendizado de Javascript e React:
 <br>
 <br>
 
-
-[![Bruno`s stats](https://github-readme-stats.vercel.app/api?username=Brucaraujo777)](https://github.com/anuraghazra/github-readme-stats)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brucaraujo777&show_icons=true&theme=transparent)
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brucaraujo777)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brucaraujo777&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
