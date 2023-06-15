@@ -9,11 +9,12 @@ Eu sou Bruno Corrêa de Araújo, um programador Front End, atualmente estou apre
 <br>
 e iniciando no aprendizado de Javascript e React:
 <br>
-<br> 
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
 <br>
 <br>
+
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brucaraujo777&show_icons=true&theme=transparent)
 <br>
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brucaraujo777&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
