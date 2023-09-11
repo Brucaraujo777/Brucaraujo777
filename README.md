@@ -9,7 +9,8 @@ Eu sou Bruno Corrêa de Araújo, um programador Front End, atualmente estou apre
 <br>
 e iniciando no aprendizado de React:
 <br>
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
 <br>
 <br>
 
